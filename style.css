@@ -1,0 +1,18 @@
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    font-family: monospace;
+}
+
+.index-recipes {
+    color: black;
+}
+
+#recipelist {
+    text-align: center;
+
+}
+
+p, li {
+    font-family: sans-serif;
+}
